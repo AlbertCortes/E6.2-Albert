@@ -1,0 +1,18 @@
+.izquierda {
+  margin-top: 20px;
+  float: left;
+  width: 50%;
+  text-align: justify;
+  background-color: #F5A9E1;
+}
+.derecha {
+  float: right;
+  width: 40%;
+  background-color: #E6E6E6;
+}
+.contenedor {
+  overflow: hidden;
+}
+body {
+  background-color: #F2F5A9;
+}
